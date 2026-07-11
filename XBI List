@@ -1,0 +1,110 @@
+| 代码 (Ticker) | 公司名称 (Company Name)                     |
+|---------------|--------------------------------------------|
+| REGN.O       | Regeneron Pharmaceuticals Inc             |
+| VKTX.O       | Viking Therapeutics Inc                   |
+| VRTX.O       | Vertex Pharmaceuticals Inc                |
+| RVMD.O       | Revolution Medicines Inc                  |
+| EXAS.O       | Exact Sciences Corp                       |
+| ALNY.O       | Alnylam Pharmaceuticals Inc               |
+| CRNX.O       | Crinetics Pharmaceuticals Inc             |
+| APLS.O       | Apellis Pharmaceuticals Inc               |
+| INCY.O       | Incyte Corp                               |
+| UTHR.O       | United Therapeutics Corp                  |
+| EXEL.O       | Exelixis Inc                              |
+| NBIX.O       | Neurocrine Biosciences Inc                |
+| DVAX.O       | Dynavax Technologies Corp                 |
+| BBIO.O       | BridgeBio Pharma Inc                      |
+| IOVA.O       | Iovance Biotherapeutics Inc               |
+| CRSP.O       | CRISPR Therapeutics AG                    |
+| CYTK.O       | Cytokinetics Inc                          |
+| IONS.O       | Ionis Pharmaceuticals Inc                 |
+| KROS.O       | Keros Therapeutics Inc                    |
+| ALT.O        | Altimmune Inc                             |
+| ARWR.O       | Arrowhead Pharmaceuticals Inc             |
+| KURA.O       | Kura Oncology Inc                         |
+| MDGL.O       | Madrigal Pharmaceuticals Inc              |
+| PTCT.O       | PTC Therapeutics Inc                      |
+| AGIO.O       | Agios Pharmaceuticals Inc                 |
+| SRPT.O       | Sarepta Therapeutics Inc                  |
+| INSM.O       | Insmed Inc                                |
+| ALKS.O       | Alkermes plc                              |
+| CPRX.O       | Catalyst Pharmaceuticals Inc              |
+| RCUS.N       | Arcus Biosciences Inc                     |
+| GILD.O       | Gilead Sciences Inc                       |
+| KYMR.O       | Kymera Therapeutics Inc                   |
+| ARDX.O       | Ardelyx Inc                               |
+| KRYS.O       | Krystal Biotech Inc                       |
+| HALO.O       | Halozyme Therapeutics Inc                 |
+| MRNA.O       | Moderna Inc                               |
+| DNLI.O       | Denali Therapeutics Inc                   |
+| NTLA.O       | Intellia Therapeutics Inc                 |
+| PRTA.O       | Prothena Corp plc                         |
+| RYTM.O       | Rhythm Pharmaceuticals Inc                |
+| SNDX.O       | Syndax Pharmaceuticals Inc                |
+| EDIT.O       | Editas Medicine Inc                       |
+| BPMC.O       | Blueprint Medicines Corp                  |
+| IRWD.O       | Ironwood Pharmaceuticals Inc              |
+| TGTX.O       | TG Therapeutics Inc                       |
+| RXRX.O       | Recursion Pharmaceuticals Inc             |
+| IMVT.O       | Immunovant Inc                            |
+| ACLX.O       | Arcellx Inc                               |
+| ADMA.O       | ADMA Biologics Inc                        |
+| AKRO.O       | Akero Therapeutics Inc                    |
+| ALVO.O       | Alvotech                                  |
+| AMLX.O       | Amylyx Pharmaceuticals Inc                |
+| ANAB.O       | AnaptysBio Inc                            |
+| ARVN.O       | Arvinas Inc                               |
+| ASND.O       | Ascendis Pharma A/S                       |
+| AUTL.O       | Autolus Therapeutics plc                  |
+| BCRX.O       | BioCryst Pharmaceuticals Inc              |
+| BEAM.O       | Beam Therapeutics Inc                     |
+| CABA.O       | Cabaletta Bio Inc                         |
+| CERE.O       | Cerevel Therapeutics Holdings Inc         |
+| CGON.O       | CG Oncology Inc                           |
+| CGTX.O       | Cognition Therapeutics Inc                |
+| CRBU.O       | Caribou Biosciences Inc                   |
+| DNA.O        | Ginkgo Bioworks Holdings Inc              |
+| EWTX.O       | Edgewise Therapeutics Inc                 |
+| FOLD.O       | Amicus Therapeutics Inc                   |
+| GH.O         | Guardant Health Inc                       |
+| HUMA.O       | Humacyte Inc                              |
+| IMCR.O       | Immunocore Holdings plc                   |
+| IMNM.O       | Immunome Inc                              |
+| ITCI.O       | Intra-Cellular Therapies Inc              |
+| KNSA.O       | Kiniksa Pharmaceuticals Ltd               |
+| KYTX.O       | Kyverna Therapeutics Inc                  |
+| MGTX.O       | MeiraGTx Holdings plc                     |
+| MIRM.O       | Mirum Pharmaceuticals Inc                 |
+| MRSN.O       | Mersana Therapeutics Inc                  |
+| MTSR.O       | Metsera Inc                               |
+| MURA.O       | Mural Oncology plc                        |
+| NAMS.O       | NewAmsterdam Pharma Co NV                 |
+| NKTX.O       | Nkarta Inc                                |
+| NUVB.O       | Nuvation Bio Inc                          |
+| PHAT.O       | Phathom Pharmaceuticals Inc               |
+| DAWN.O       | Day One Biopharmaceutics Inc              |
+| TVTX.O       | Travere Therapeutics Inc                  |
+| VIR.O        | Vir Biotechnology Inc                     |
+| FDMT.O       | 4D Molecular Therapeutics Inc             |
+| RLAY.O       | Relay Therapeutics Inc                    |
+| NRIX.O       | Nurix Therapeutics Inc                    |
+| ARCT.O       | Arcturus Therapeutics Holdings Inc        |
+| MYGN.O       | Myriad Genetics Inc                       |
+| ATRA.O       | Atara Biotherapeutics Inc                 |
+| PTGX.O       | Protagonist Therapeutics Inc              |
+| ACAD.O       | ACADIA Pharmaceuticals Inc                |
+| CLDX.O       | Celldex Therapeutics Inc                  |
+| DCPH.O       | Deciphera Pharmaceuticals Inc             |
+| CDNA.O       | CareDx Inc                                |
+| RCKT.O       | Rocket Pharmaceuticals Inc                |
+| MNKD.O       | MannKind Corp                             |
+| SGEN.O       | Seagen Inc                                |
+| NTRA.O       | Natera Inc                                |
+| RXDX.O       | Prometheus Biosciences Inc                |
+| TWST.O       | Twist Bioscience Corp                     |
+| PCVX.O       | Vaxcyte Inc                               |
+| KRTX.O       | Karuna Therapeutics Inc                   |
+| IMGN.O       | ImmunoGen Inc                             |
+| MRTX.O       | Mirati Therapeutics Inc                   |
+
+
